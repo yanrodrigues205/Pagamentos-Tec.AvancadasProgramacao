@@ -1,0 +1,15 @@
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\bin\Debug\net6.0\List-DataStruct.exe
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\bin\Debug\net6.0\List-DataStruct.deps.json
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\bin\Debug\net6.0\List-DataStruct.runtimeconfig.json
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\bin\Debug\net6.0\List-DataStruct.dll
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\bin\Debug\net6.0\List-DataStruct.pdb
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\List-DataStruct.csproj.AssemblyReference.cache
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\List-DataStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\List-DataStruct.AssemblyInfoInputs.cache
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\List-DataStruct.AssemblyInfo.cs
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\List-DataStruct.csproj.CoreCompileInputs.cache
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\List-DataStruct.dll
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\refint\List-DataStruct.dll
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\List-DataStruct.pdb
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\List-DataStruct.genruntimeconfig.cache
+C:\Users\aluno\desktop\Pagamentos-Tec.AvancadasProgramacao\obj\Debug\net6.0\ref\List-DataStruct.dll
