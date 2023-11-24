@@ -3,23 +3,33 @@ namespace List_DataStruct
     public class Cheque : Pagamento
     {
         public long numero; 
-        public string data;
+        public DateTime dataDeposito;
 
         public int situacao;
 
-        public override void RealizarPagamento()
+
+        public Cheque(long numero, int situacao)
         {
-            if(situacao == 1)
-            {
-                Console.WriteLine($"\nPagamento de Cheque Aprovado! \n Data {data} \n número do cheque: {numero}");
-                base.RealizarPagamento();
-            }
-            else
-            {
-                 Console.WriteLine($"\nPagamento de Cheque Reprovado! \n Data {data} \n número do cheque: {numero}");
-            }
-            
+            this.numero = numero;
+            this.situacao = situacao;
+            this.dataDeposito = DateTime.Now;
+            this.Apresentar();
+            // this.total = 
+            // this.RealizarPagamento(this.situacao);
+
         }
+
+
+        public void Apresentar()
+        {
+            Console.WriteLine(
+                $"\n"+
+                $"Número do Cheque => {this.numero}"+
+                $"Data de Depósito => {this.data}"
+            );
+        }
+
+      
 
     }
 }
